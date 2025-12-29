@@ -1,0 +1,11 @@
+name: warehouse-optimization 
+channels: 
+  - conda-forge 
+dependencies: 
+  - python=3.10 
+  - pulp 
+  - pandas 
+  - numpy 
+  - matplotlib 
+  - seaborn 
+  - jupyter 
